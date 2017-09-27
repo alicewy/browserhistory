@@ -1,0 +1,59 @@
+body{
+  background-color: Ivory;
+  margin: 20px 20px;
+}
+
+
+.nav{
+  display: inline-block;
+  float: left;
+  position: relative;
+}
+
+p{
+  display: inline;
+  color: darkblue;
+  font-family: "Open Sans";
+}
+
+
+ul{
+  list-style-type: none;
+  margin:0px;
+  padding:0px;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: blue;
+  text-decoration: underline;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+h1 {
+  color: darkblue;
+  font-family: "Oswald";
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+  color: darkblue;
+  font-family: "Oswald";
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+
+img{
+  float: left;
+  margin-right:10px;
+}
+
